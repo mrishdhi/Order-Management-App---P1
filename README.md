@@ -16,3 +16,14 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
 - [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+
+## Order Management App
+
+End-to-end Salesforce order management solution built with Apex services, LWC UI, async processing, and secure REST API integrations.
+
+## Key Features
+
+Create and edit orders
+Order approval workflow
+Integration with external supplier databases
+Integration with external inventory management systems
