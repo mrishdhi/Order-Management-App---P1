@@ -27,3 +27,10 @@ End-to-end Salesforce order management solution built with Apex services, LWC UI
 - Order approval workflow
 - Integration with external supplier databases
 - Integration with external inventory management systems
+
+## Tech Stack
+
+- Lightning Web Components (LWC)
+- Apex
+- Flows and approval process
+- Postman
