@@ -23,7 +23,7 @@ End-to-end Salesforce order management solution built with Apex services, LWC UI
 
 ## Key Features
 
-Create and edit orders
-Order approval workflow
-Integration with external supplier databases
-Integration with external inventory management systems
+- Create and edit orders
+- Order approval workflow
+- Integration with external supplier databases
+- Integration with external inventory management systems
